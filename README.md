@@ -4,10 +4,6 @@ Gabriel-Alex Ciocan | 20.10.2026
 
 Repository public: https://github.com/gabixyz/MEDE_U16
 
-Codul si documentele CP1 sunt publicate cu aprobarea proprietarului.
-Datele brute si iesirile CSV raman locale. Asistentul nu a incarcat
-nimic in Moodle; URL-ul de mai sus este linkul repo pentru predare.
-
 ## Intrebare de cercetare
 In ce masura regimul de operare mascheaza degradarea motoarelor si ce
 tipare devin vizibile dupa normalizarea masuratorilor pe regim?
